@@ -1,11 +1,11 @@
 copy taller1.colectivos_por_parada
-from '/home/romanvl/Desktop/bdd/taller/taller1/datos/colectivosPorParada.csv'
+from '/home/romanvl/Desktop/BaseDeDatos/taller/taller1/datos/colectivosPorParada.csv'
 Delimiter ';'
 CSV HEADER
 ENCODING 'LATIN1';
 
 copy taller1.paradas
-from '/home/romanvl/Desktop/bdd/taller/taller1/datos/paradas.csv'
+from '/home/romanvl/Desktop/BaseDeDatos/taller/taller1/datos/paradas.csv'
 Delimiter ';'
 CSV HEADER
 ENCODING 'LATIN1';
