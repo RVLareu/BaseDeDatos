@@ -1,2 +1,6 @@
-# BaseDeDatos
-[75.15] Base de Datos - Cátedra Beiró. Facultad de Ingenieria de la Universidad de Buenos Aires
+# Base De Datos 75.15
+
+### :dart: Parcialitos
+
+
+### :dart: Talleres
